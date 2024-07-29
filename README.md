@@ -31,7 +31,7 @@
 
 # GitHub Stats
 
-[![nekizz's GitHub | Stats](https://stats.quira.sh/nekizz/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=nekizz)[![Aiden's GitHub Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nekizz&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![nekizz's GitHub | Stats](https://stats.quira.sh/nekizz/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=nekizz)[![Aiden's GitHub Top languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidenismee&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![nekizz's GitHub | Languages Over Time](https://stats.quira.sh/nekizz/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=nekizz)
 
 <!--
